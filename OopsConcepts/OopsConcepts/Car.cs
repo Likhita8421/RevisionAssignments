@@ -16,7 +16,7 @@ namespace OopsConcepts
         // Create a class constructor for the Car class
         public Car()
         {
-            model = "Hyundai"; // Set the initial value for model
+            model = "Thar"; // Set the initial value for model
         }
 
     }

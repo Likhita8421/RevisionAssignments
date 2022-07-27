@@ -6,8 +6,8 @@ int choice = Convert.ToInt32(Console.ReadLine());
 switch(choice)
 {
     case 1:
-        OopsConcepts.Car Ford = new OopsConcepts.Car();
-        Console.WriteLine(Ford.model);  // Print the value of model
+        OopsConcepts.Car Mahindra = new OopsConcepts.Car();
+        Console.WriteLine(Mahindra.model);  // Print the value of model
         break;
 
     case 2:
